@@ -1,0 +1,4 @@
+.vscode/
+*.zip
+tasks.json
+__pycache__/
